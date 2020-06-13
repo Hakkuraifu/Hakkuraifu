@@ -9,7 +9,7 @@ A Simple software for bypass, downgrade, jailbreak and other stuff
 
 ### Download Latest 
 
-[![button](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/16/download-icon.png)](https://mattermost.com) Source Code
+[![button](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/16/download-icon.png)](https://github.com/Hakkuraifu/Hakkuraifu/archive/2.0.zip) [Source Code](https://github.com/Hakkuraifu/Hakkuraifu/archive/2.0.zip)
 
 ## Dependencies
 
