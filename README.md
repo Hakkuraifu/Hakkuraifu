@@ -8,8 +8,7 @@
 A Simple software for bypass, downgrade, jailbreak and other stuff
 
 ### Download Latest 
-![Bitbucket Pipelines](https://img.shields.io/bitbucket/pipelines/Hakkuraifu/Hakkuraifu?label=Download&style=for-the-badge)
-
+![Bitbucket Pipelines branch](https://img.shields.io/bitbucket/pipelines/Hakkuraifu/Hakkuraifu/tag/2.0?label=SRC&style=for-the-badge)
 ## Dependencies
 
 Python | Link
