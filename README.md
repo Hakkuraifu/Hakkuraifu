@@ -8,40 +8,16 @@
 A Simple software for bypass, downgrade, jailbreak and other stuff
 
 ### Download Latest 
-![Bitbucket Pipelines branch](https://img.shields.io/bitbucket/pipelines/Hakkuraifu/Hakkuraifu/archive/2.0.zip?label=SRC&style=for-the-badge)
+
+[![button](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/16/download-icon.png)](https://mattermost.com) Source Code
+
 ## Dependencies
 
 Python | Link
 ---------|-----
-Python 2.7.x | [Download](https://www.python.org/downloads/release/python-2717/)
-Python 3.x | [Download](https://www.python.org/downloads/release/python-382/)
+RencieSSH | [Download](https://github.com/sshnet/SSH.NET/releases)
+Bunifu| [Buy](https://bunifuframework.com/) (or you can crack it too)
 
-
-
-- Ignore this if you don't touch the program
-
-SSH/SCP | Link
---------|-----
-Putty (Plink and Pscp) | [Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-If Putty not work use openssh | [Installation](https://docs.microsoft.com/fr-fr/windows-server/administration/openssh/openssh_install_firstuse)
-
-
-
-## Features
-
-### Change Log 
-
-v0.2 :
-
-- [x] Bypass IOS 13.x
-- [x] Bypass IOS 12.3/13.2.3
-- [x] Add Silver mac support
-- [x] Auto Bypass IOS 13.x
-- [x] Auto Bypass IOS 12.3/13.2.3
-
-## Todos 
-
-- [ ] Make Passcode Bypass Untetherd
 
 ### Credit
 
