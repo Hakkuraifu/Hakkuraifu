@@ -1,6 +1,6 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/nazkyyt?label=Follow%20the%20creator&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nazkyyt?label=Follow%20the%20creator&style=social)](https://twitter.com/NazkyYT)
 
-![GitHub followers](https://img.shields.io/github/followers/Hakkuraifu?label=Hakkuraifu&style=social) ![GitHub followers](https://img.shields.io/github/followers/nazky?label=NazkyYT&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Hakkuraifu?label=Hakkuraifu&style=social)](https://github.com/Hakkuraifu) [![GitHub followers](https://img.shields.io/github/followers/nazky?label=NazkyYT&style=social)](https://github.com/Nazky)
 
 
 
