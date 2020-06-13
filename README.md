@@ -11,9 +11,13 @@ A Simple software for bypass, downgrade, jailbreak and other stuff
 
 [![button](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/16/download-icon.png)](https://github.com/Hakkuraifu/Hakkuraifu/archive/2.0.zip) [Source Code](https://github.com/Hakkuraifu/Hakkuraifu/archive/2.0.zip)
 
+[![button](http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/16/download-icon.png)](https://www.file-upload.com/9gfz7ycfue0u) [release](https://www.file-upload.com/9gfz7ycfue0u)
+
+
+
 ## Dependencies
 
-Python | Link
+Name | Link
 ---------|-----
 RencieSSH | [Download](https://github.com/sshnet/SSH.NET/releases)
 Bunifu| [Buy](https://bunifuframework.com/) (or you can crack it too)
